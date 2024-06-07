@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Strings 1
+# Author ID: gchawla4@myseneca.ca
 
 str1 = 'Hello World!!'
 str2 = 'Seneca College'
